@@ -1,0 +1,19 @@
+.leftdice{
+   display: grid;
+    background-color: rgb(53, 181, 6);
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr ;
+    height: 500px;
+    width: 500px;
+    gap: 10px;
+}
+.leftdice-text{
+    background-color: rgb(203, 15, 96);
+    height: 245px;
+    width: 245px;
+}
+img{
+    height: 245px;
+    width: 245px;
+}
